@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StepCounter</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBCFmFEYxbSN1kFOuPxKK--RvEqIv3pk7I</string>
+    <string name="sample_name"><![CDATA[<SAMPLE NAME>]]></string>
+    <string name="location">LOCATION:</string>
+    <string name="account_login">Account login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+</resources>
